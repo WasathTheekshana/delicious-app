@@ -1,5 +1,5 @@
 # delicious-app
-Delicious food ordering app using React JS.
+<h3>Delicious food ordering app using React JS.</h3>
 
     npm start
  Starts the development server.
